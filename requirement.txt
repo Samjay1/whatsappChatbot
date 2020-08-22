@@ -20,7 +20,6 @@ lazy-object-proxy==1.4.3
 MarkupSafe==1.1.1
 mccabe==0.6.1
 mysql-connector==2.2.9
-mysqlclient @ file:///C:/Users/SAM1/Downloads/mysqlclient-1.4.6-cp38-cp38-win32.whl
 PyJWT==1.7.1
 pylint==2.4.4
 pytz==2020.1
